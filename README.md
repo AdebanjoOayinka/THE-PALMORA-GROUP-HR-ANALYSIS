@@ -129,20 +129,18 @@ Note: Individual colour codes was maintained in this report to show the gender t
       ● Page 1: Gender Distribution and Rating
             ![Gender Distribution and Rating](https://github.com/user-attachments/assets/63c6021a-c3fc-4c4e-9201-46296bc87940)
 
-     
-
       ● Page 2: Gender Pay Variance
-      
+      ![Gender Pay Variances](https://github.com/user-attachments/assets/442592c7-322b-4978-bb13-11aad1dfa7a3)
 
        ● Page 3: Bonus Calculations
-      
+      ![Bonus Calculations](https://github.com/user-attachments/assets/391e19bc-eeb5-428f-a268-ebf7a131443c)
+
 
 ## Spreadsheet: 
      
-Excel Analysis Sheet ([Uploading PALMORA GROUP HR ANALYSIS 2.xlsx…]
+Excel Analysis Sheet [PALMORA GROUP HR ANALYSIS 2.xlsx](https://github.com/user-attachments/files/21236066/PALMORA.GROUP.HR.ANALYSIS.2.xlsx)
 
 For Power BI Table [Palmora Group HR Analysis.xlsx](https://github.com/user-attachments/files/21235964/Palmora.Group.HR.Analysis.xlsx)
-
 
 ### Charts
       Other info revealed from the analysis are:
