@@ -1,4 +1,4 @@
-[PALMORA GROUP HR ANALYSIS 2.xlsx](https://github.com/user-attachments/files/21235927/PALMORA.GROUP.HR.ANALYSIS.2.xlsx)# THE-PALMORA-GROUP-HR-ANALYSIS
+# THE-PALMORA-GROUP-HR-ANALYSIS
 This shows the steps I used in carrying out the Palmora HR Analysis using Excel and presenting the resuts in Power BI
 
 ## PROJECT OVERVIEW
@@ -127,11 +127,12 @@ Note: Individual colour codes was maintained in this report to show the gender t
 #### Charts were deployed for:
 
       ● Page 1: Gender Distribution and Rating
+            ![Gender Distribution and Rating](https://github.com/user-attachments/assets/63c6021a-c3fc-4c4e-9201-46296bc87940)
 
-      ![Gender Distribution and Rating](https://github.com/user-attachments/assets/7f4af1bc-4286-4f98-9a5a-0a72e0b1d4cb)
+     
 
       ● Page 2: Gender Pay Variance
-      ![Gender Pay Variances](https://github.com/user-attachments/assets/acabe206-03f3-4ecf-aac6-c008e952c19c)
+      
 
        ● Page 3: Bonus Calculations
       
