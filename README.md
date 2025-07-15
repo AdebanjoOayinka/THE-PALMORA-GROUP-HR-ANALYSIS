@@ -21,9 +21,9 @@ The future of gender equality in Palmoria lies in the analysis of this data.
 
       ● Analyse the company data and generate insights that the Palmoria management team would need to address.
      
-      ● Your analysis should be visualised using appropriate charts.
+      ● Analysis should be visualised using appropriate charts.
      
-      ● Your focus should be on gender-related issues within the organization and its regions.
+      ● The focus should be on gender-related issues within the organization and its regions.
      
       ● The insights required are based on your discretion.
 
@@ -31,7 +31,7 @@ The future of gender equality in Palmoria lies in the analysis of this data.
 
     ● Generally, there are two genders in the organization. However, some employees refused to disclose their gender.
     
-    ● You would need to assign a generic gender status to these employees
+    ● To assign a generic gender status to these employees
     
     ● Some employees are without a salary because they are no longer with the company. You will need to take those employees out
     
@@ -50,13 +50,13 @@ The future of gender equality in Palmoria lies in the analysis of this data.
     
     6. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
     
-        ● Does Palmoria meet this requirement?
+        ● to show if Palmoria meet this requirement?
         
-        ● Show the pay distribution of employees grouped by a band of $10,000?
+        ● To show the pay distribution of employees grouped by a band of $10,000?
         
         ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000?
         
-        ● Also visualize this by regions?
+        ● Also to visualize this by regions?
 
 ## FURTHER ANALYSIS
 
