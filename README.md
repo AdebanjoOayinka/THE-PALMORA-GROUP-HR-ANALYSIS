@@ -127,18 +127,19 @@ Note: Individual colour codes was maintained in this report to show the gender t
 #### Charts were deployed for:
 
       ● Page 1: Gender Distribution and Rating
-      
+      [Download Here] (C:\Users\Yinkus\Desktop\DSA\PowerBI\Palmora)
 
       ● Page 2: Gender Pay Variances
-      
+      [Download Here] (C:\Users\Yinkus\Desktop\DSA\PowerBI\Palmora)
  
       ● Page 3: Bonus Calculations
-     
+      [Download Here] (C:\Users\Yinkus\Desktop\DSA\PowerBI\Palmora)
 
 ## Spreadsheet: 
      
-[Download Here] 
+Excel [Download Here] (C:\Users\Yinkus\Desktop\DSA\PowerBI\Palmora)
 
+For Power BI [Download Here] (C:\Users\Yinkus\Desktop\DSA\PowerBI\Palmora)
 
 ### Charts
       Other info revealed from the analysis are:
