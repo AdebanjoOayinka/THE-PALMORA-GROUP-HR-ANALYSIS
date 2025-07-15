@@ -80,7 +80,7 @@ The dataset provided contains two sets of information, one set of data for the g
 
 ## Data Storage
 
-    ● Snipping Tool [Download Here] (https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) 
+    ● Snipping Tool [Download](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) 
 
 ## Data Ananlysis using MS Excel
 
@@ -88,7 +88,7 @@ The dataset provided contains two sets of information, one set of data for the g
    
 ## Data Cleaning and Presentation using PowerBI
 
-    ● Microsoft PowerBI [Download Here] (https://microsoft-powerpoint.en.download.it/)
+    ● Microsoft PowerBI [Download](https://microsoft-powerpoint.en.download.it/)
    
     ● PowerBI was used clean the data futher and make it usaeabe in the PowerBI envonment and then the charts were created.
      
