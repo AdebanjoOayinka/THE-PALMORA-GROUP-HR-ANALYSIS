@@ -76,11 +76,11 @@ The dataset provided contains two sets of information, one set of data for the g
 
 ## Data Source
 
-    ● Microsoft Excel [Download Here](https://microsoft-excel.en.download.it/download)
+    ● Microsoft Excel [Download Here] (https://microsoft-excel.en.download.it/download)
 
 ## Data Storage
 
-    ● Snipping Tool [Download Here](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) 
+    ● Snipping Tool [Download Here] (https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) 
 
 ## Data Ananlysis using MS Excel
 
@@ -88,7 +88,7 @@ The dataset provided contains two sets of information, one set of data for the g
    
 ## Data Cleaning and Presentation using PowerBI
 
-    ● Microsoft PowerBI [Download Here](https://microsoft-powerpoint.en.download.it/)
+    ● Microsoft PowerBI [Download Here] (https://microsoft-powerpoint.en.download.it/)
    
     ● PowerBI was used clean the data futher and make it usaeabe in the PowerBI envonment and then the charts were created.
      
@@ -129,7 +129,7 @@ Note: Individual colour codes was maintained in this report to show the gender t
       ● Page 1: Gender Distribution and Rating
       [Download Here] (C:\Users\Yinkus\Desktop\DSA\PowerBI\Palmora)
 
-      ● Page 2: Gender Pay Variances
+      ● Page 2: Gender Pay Variance
       [Download Here] (C:\Users\Yinkus\Desktop\DSA\PowerBI\Palmora)
  
       ● Page 3: Bonus Calculations
