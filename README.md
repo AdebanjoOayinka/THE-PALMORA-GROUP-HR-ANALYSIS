@@ -101,7 +101,7 @@ Note: Individual colour codes was maintained in this report to show the gender t
 
   1. To display the gender distribution in the organization, gender distribution regions and in departments:
 
-         ● A pie chart and Barhrts was used to show the distributions.
+         ● A pie chart and Bar charts were used to show gender distributions.
     
   2. A Bar Chart was used to show the insights on ratings based on gender side by side.
         
