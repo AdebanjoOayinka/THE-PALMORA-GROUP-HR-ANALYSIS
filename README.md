@@ -127,13 +127,15 @@ Note: Individual colour codes was maintained in this report to show the gender t
 #### Charts were deployed for:
 
       ● Page 1: Gender Distribution and Rating
-            ![Gender Distribution and Rating](https://github.com/user-attachments/assets/63c6021a-c3fc-4c4e-9201-46296bc87940)
+![Gender Distribution and Rating](https://github.com/user-attachments/assets/3aa684cb-06bd-4548-a980-5d1b42aa2ea8)
 
       ● Page 2: Gender Pay Variance
-      ![Gender Pay Variances](https://github.com/user-attachments/assets/442592c7-322b-4978-bb13-11aad1dfa7a3)
+     
+![Gender Pay Variances](https://github.com/user-attachments/assets/889bae21-581f-4766-852c-d9e296241f91)
 
        ● Page 3: Bonus Calculations
-      ![Bonus Calculations](https://github.com/user-attachments/assets/391e19bc-eeb5-428f-a268-ebf7a131443c)
+    
+![Bonus Calculations](https://github.com/user-attachments/assets/c6875286-9d8b-4b4d-b764-5204a95f14b4)
 
 
 ## Spreadsheet: 
