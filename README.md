@@ -145,20 +145,20 @@ For Power BI Table [Palmora Group HR Analysis.xlsx](https://github.com/user-atta
 ### Charts
       Other info revealed from the analysis are:
       
-            ● Some of the staff were not rated (hence no bunus pay for them)
+            1. Some of the staff were not rated (hence no bunus pay for them)
             
-            ● There were some names of staff that appeared in two locations;
+            2. There were some names of staff that appeared in two locations;
             
-                 ● With different rating
+                 a. With different rating
                  
-                 ● Different salaries
+                 b. Different salaries
 
-            ● There were same names of staff that appeared in two locations;
+            3. There were same names of staff that appeared in two locations;
             
-                 ● With different loacation
+                 a. With different loacation
                  
-                 ● Same salaries.
+                 b. Same salaries.
 
 ### Further Areas for possible Analysis
 
-      #### To know if the names repeated were errors from the data provided.
+    To know if the names repeated were errors from the data provided.
