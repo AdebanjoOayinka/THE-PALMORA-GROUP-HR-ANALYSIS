@@ -75,9 +75,8 @@ The future of gender equality in Palmoria lies in the analysis of this data.
 The dataset provided contains two sets of information, one set of data for the gender and another for the bonus percentage.
 
 ## Data Source
-
-    ● Microsoft Excel [Download here](https://www.microsoft.com)
-    
+      * Microsoft Excel [Download Here](https://microsoft-excel.en.softonic.com/)
+      
 ## Data Storage
 
     ● Snipping Tool [Download](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) 
@@ -88,7 +87,7 @@ The dataset provided contains two sets of information, one set of data for the g
    
 ## Data Cleaning and Presentation using PowerBI
 
-    ● Microsoft PowerBI [Download](https://microsoft-powerpoint.en.download.it/)
+    ● Microsoft PowerBI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
    
     ● PowerBI was used clean the data futher and make it usaeabe in the PowerBI envonment and then the charts were created.
      
