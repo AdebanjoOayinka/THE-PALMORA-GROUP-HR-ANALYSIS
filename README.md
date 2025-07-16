@@ -62,7 +62,7 @@ The future of gender equality in Palmoria lies in the analysis of this data.
 
     5. Mr Gamma thought to himself that since you were already working on the employee data, you could help out with allocating the annual bonus pay to employees based on the performance rating. 
     
-He handed you another data set that contains rules for making bonus payments and asked you to:
+He handed me another data set that contains rules for making bonus payments and asked you to:
     
        ● Calculate the amount to be paid as a bonus to individual employees.
             
