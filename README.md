@@ -62,13 +62,13 @@ The future of gender equality in Palmoria lies in the analysis of this data.
 
     5. Mr Gamma thought to himself that since you were already working on the employee data, you could help out with allocating the annual bonus pay to employees based on the performance rating. 
     
-       He handed you another data set that contains rules for making bonus payments and asked you to:
+He handed you another data set that contains rules for making bonus payments and asked you to:
     
-            ● Calculate the amount to be paid as a bonus to individual employees.
+       ● Calculate the amount to be paid as a bonus to individual employees.
             
-            ● Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
+       ● Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
             
-            ● Total amount to be paid out per region and company-wide.
+       ● Total amount to be paid out per region and company-wide.
             
 ## Dataset Description
 
@@ -89,7 +89,7 @@ The dataset provided contains two sets of information, one set of data for the g
    
 ## Data Cleaning and Presentation using PowerBI
 
-    ● Microsoft PowerBI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+    ● Microsoft PowerBI [Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
    
     ● PowerBI was used clean the data futher and make it usaeabe in the PowerBI envonment and then the charts were created.
      
@@ -141,9 +141,11 @@ Note: Individual colour codes was maintained in this report to show the gender t
 
 ## Spreadsheet: 
      
-Excel Analysis Sheet [PALMORA GROUP HR ANALYSIS 2.xlsx](https://github.com/user-attachments/files/21236066/PALMORA.GROUP.HR.ANALYSIS.2.xlsx)
+Excel Analysis Sheet: [PALMORA GROUP HR ANALYSIS 2.xlsx](https://github.com/user-attachments/files/21236066/PALMORA.GROUP.HR.ANALYSIS.2.xlsx)
 
-For Power BI Table [Palmora Group HR Analysis.xlsx](https://github.com/user-attachments/files/21235964/Palmora.Group.HR.Analysis.xlsx)
+Excel Sheet For Power BI: [Palmora Group HR Analysis.xlsx](https://github.com/user-attachments/files/21235964/Palmora.Group.HR.Analysis.xlsx)
+
+PowerBI: []
 
 ### Charts
       Other info revealed from the analysis are:
