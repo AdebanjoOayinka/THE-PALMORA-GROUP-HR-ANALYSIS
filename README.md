@@ -31,7 +31,7 @@ The future of gender equality in Palmoria lies in the analysis of this data.
 
     ● Generally, there are two genders in the organization. However, some employees refused to disclose their gender.
     
-    ● To assign a generic gender status to these employees
+    ● To assign a generic gender status to these employees.
     
     ● Some employees are without a salary because they are no longer with the company. You will need to take those employees out
     
@@ -44,23 +44,23 @@ The future of gender equality in Palmoria lies in the analysis of this data.
     
     3. What is the gender distribution regions and departments?
     
-    4. Show insights on ratings based on gender
+    4. Show insights on ratings based on gender?
     
     5. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
     
     6. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
     
-        ● to show if Palmoria meet this requirement?
+        ● To show if Palmoria meets this requirement?
         
         ● To show the pay distribution of employees grouped by a band of $10,000?
         
-        ● How many employees fall into a different salary bands
+        ● How many employees fall into a different salary bands?
         
         ● Also to visualize this by regions?
 
 ## FURTHER ANALYSIS
 
-    5. Mr Gamma thought to himself that since you were already working on the employee data, you could help out with allocating the annual bonus pay to employees based on the performance rating. 
+    5. Mr Gamma said since I am already working on the employee data, I could help out with allocating the annual bonus pay to employees based on the performance rating. 
     
 He handed me another data set that contains rules for making bonus payments and asked you to:
     
@@ -70,13 +70,13 @@ He handed me another data set that contains rules for making bonus payments and 
             
        ● Total amount to be paid out per region and company-wide.
             
-## Dataset Description
+## Data Set Description
 
 The data set provided contains two sets of information, one set of data for the gender and another for the bonus percentage.
 
 ## Data Source
 
-    ● Microsoft Excel [Download](https://microsoft-excel.en.softonic.com/)
+    ● Microsoft Excel [Download](https://wwww.microsoft-excel.en.softonic.com/)
       
 ## Data Ananlysis using MS Excel
 
@@ -103,7 +103,7 @@ Note: Individual colour codes was maintained in this report to show the gender t
         
   3. A Bar chart was used show gender company’s salary structure for each region.
      
-    This clearly shows there is a gender pay gap in one of the regons. This is where the management should focus on to recctify the pay gap.
+          - This clearly shows there is a gender pay gap in one of the regons. This is where the management should focus on to recctify the pay gap.
 
   5. A Bar chart was used to show the total salary payment for each gender distribution in each department.
      
