@@ -75,7 +75,8 @@ The future of gender equality in Palmoria lies in the analysis of this data.
 The dataset provided contains two sets of information, one set of data for the gender and another for the bonus percentage.
 
 ## Data Source
-      * Microsoft Excel [Download Here](https://microsoft-excel.en.softonic.com/)
+
+    ● Microsoft Excel [Download](https://microsoft-excel.en.softonic.com/)
       
 ## Data Storage
 
