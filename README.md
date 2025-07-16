@@ -80,7 +80,8 @@ The dataset provided contains two sets of information, one set of data for the g
       
 ## Data Storage
 
-    ● Snipping Tool [Download](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US) 
+    ● Snipping Tool
+    [Download](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US)
 
 ## Data Ananlysis using MS Excel
 
@@ -92,7 +93,7 @@ The dataset provided contains two sets of information, one set of data for the g
    
     ● PowerBI was used clean the data futher and make it usaeabe in the PowerBI envonment and then the charts were created.
      
-## ANALYSIS
+## EXPOSITORY DATA ANALYSIS
 The two sheets receved from the HR department were combined to one sheet for the presentation in PowerBI.
 
 Interactive charts were created using the different build types;
@@ -106,15 +107,16 @@ Note: Individual colour codes was maintained in this report to show the gender t
   2. A Bar Chart was used to show the insights on ratings based on gender side by side.
         
   3. A Bar chart was used show gender company’s salary structure for each region.
+     
     This clearly shows there is a gender pay gap in one of the regons. This is where the management should focus on to recctify the pay gap.
 
-  4. A Bar chart was used to show the total salary payment for each gender distribution in each department.
+  5. A Bar chart was used to show the total salary payment for each gender distribution in each department.
      
-  5. A Bar chart was used to show the minimum salary for each to show if the regulation adopted which requires manufacturing companies to pay employees a minimum of $90,000.
+  6. A Bar chart was used to show the minimum salary for each to show if the regulation adopted which requires manufacturing companies to pay employees a minimum of $90,000.
 
       ● Does Palmoria meet this requirement: The data shows the company does not meet the requirement of $90,000 minimum salary.
 
-  6. A Table with filter function was used to show the the pay distribution of employees grouped by different salary bands for each region.
+  7. A Table with filter function was used to show the the pay distribution of employees grouped by different salary bands for each region.
 
 ## ANALYSIS FOR BONUS PAYOUTS
    
@@ -136,7 +138,6 @@ Note: Individual colour codes was maintained in this report to show the gender t
        ● Page 3: Bonus Calculations
     
 ![Bonus Calculations](https://github.com/user-attachments/assets/c6875286-9d8b-4b4d-b764-5204a95f14b4)
-
 
 ## Spreadsheet: 
      
