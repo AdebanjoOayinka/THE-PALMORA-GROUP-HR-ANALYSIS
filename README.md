@@ -1,5 +1,5 @@
 # THE-PALMORA-GROUP-HR-ANALYSIS
-This shows the steps I used in carrying out the Palmora HR Analysis using Excel and presenting the resuts in Power BI
+This shows the steps I used in carrying out the Palmora HR Analysis using Excel and presenting the resl,yuts in Power BI
 
 ## PROJECT OVERVIEW
 
@@ -54,7 +54,7 @@ The future of gender equality in Palmoria lies in the analysis of this data.
         
         ● To show the pay distribution of employees grouped by a band of $10,000?
         
-        ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000?
+        ● How many employees fall into a different salary bands
         
         ● Also to visualize this by regions?
 
@@ -72,17 +72,12 @@ He handed you another data set that contains rules for making bonus payments and
             
 ## Dataset Description
 
-The dataset provided contains two sets of information, one set of data for the gender and another for the bonus percentage.
+The data set provided contains two sets of information, one set of data for the gender and another for the bonus percentage.
 
 ## Data Source
 
     ● Microsoft Excel [Download](https://microsoft-excel.en.softonic.com/)
       
-## Data Storage
-
-    ● Snipping Tool
-    [Download](https://apps.microsoft.com/detail/9mz95kl8mr0l?hl=en-US&gl=US)
-
 ## Data Ananlysis using MS Excel
 
     ● MS Excel Tables for data sorting, manipulating, cleaning and formatting
