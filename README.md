@@ -1,5 +1,5 @@
 # THE-PALMORA-GROUP-HR-ANALYSIS
-This shows the steps I used in carrying out the Palmora HR Analysis using Excel and presenting the resl,yuts in Power BI
+This shows the steps I used in carrying out the Palmora HR Analysis using Excel and presenting the results in Power BI.
 
 ## PROJECT OVERVIEW
 
