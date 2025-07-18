@@ -140,6 +140,8 @@ Excel Analysis Sheet: [PALMORA GROUP HR ANALYSIS 2.xlsx](https://github.com/user
 
 Excel Sheet For Power BI: [Palmora Group HR Analysis.xlsx](https://github.com/user-attachments/files/21235964/Palmora.Group.HR.Analysis.xlsx)
 
+PowerBi Sheet: 
+
 ### Charts
       Other info revealed from the analysis are:
       
