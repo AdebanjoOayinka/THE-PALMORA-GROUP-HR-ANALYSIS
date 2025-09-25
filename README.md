@@ -3,23 +3,23 @@ This shows the steps I used in carrying out the Palmora HR Analysis using Excel 
 
 ## PROJECT OVERVIEW
 
-The Palmoria Group, is a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions.
+The Palmora Group, is a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions.
 
-Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. 
+Unfortunately, the media recently published the news with the headline “Palmora, the Manufacturing Patriarchy”. 
 
 This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards, revealing other issues like the gender pay gap, amongst other possible issues. 
 
-The CEO of Palmoria, Mr Ayodeji Chukwuma, is keen to address these issues before they get out of hand. 
+The CEO of Palmora, Mr Ayodeji Chukwuma, is keen to address these issues before they get out of hand. 
 
 The CHRO, Mr Yunus Shofoluwe, has been assigned the task to identify key areas within the business that could give rise to issues and address them immediately.
 
 The MD has decided to recruit me as an HR Analytics expert to analyse the company’s HR data and come up with recommendations for management’s attention.
 
-The future of gender equality in Palmoria lies in the analysis of this data.
+The future of gender equality in Palmora lies in the analysis of this data.
 
 ## PROJECT INSTRUCTION
 
-      ● Analyse the company data and generate insights that the Palmoria management team would need to address.
+      ● Analyse the company data and generate insights that the Palmora management team would need to address.
      
       ● Analysis should be visualised using appropriate charts.
      
@@ -33,7 +33,7 @@ The future of gender equality in Palmoria lies in the analysis of this data.
     
     ● To assign a generic gender status to these employees.
     
-    ● Some employees are without a salary because they are no longer with the company. You will need to take those employees out
+    ● Some employees are without a salary because they are no longer with the company. You will need to take those employees out.
     
     ● Lastly, some departments are indicated as “NULL”. These departments would also need to be taken out.
 
@@ -46,11 +46,11 @@ The future of gender equality in Palmoria lies in the analysis of this data.
     
     4. Show insights on ratings based on gender?
     
-    5. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
+    5. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management.
     
     6. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
     
-        ● To show if Palmoria meets this requirement?
+        ● To show if Palmora meets this requirement?
         
         ● To show the pay distribution of employees grouped by a band of $10,000?
         
@@ -78,7 +78,7 @@ The data set provided contains two sets of information, one set of data for the 
 
     ● Microsoft Excel [Download Here](https://microsoft-excel.en.download.it/download)
          
-## Data Ananlysis using MS Excel
+## Data Analysis using MS Excel
 
     ● MS Excel Tables for data sorting, manipulating, cleaning and formatting
    
@@ -86,10 +86,10 @@ The data set provided contains two sets of information, one set of data for the 
 
     ● Microsoft PowerBI [Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
    
-    ● PowerBI was used clean the data futher and make it usaeabe in the PowerBI envonment and then the charts were created.
+    ● Powerquery was used structure the data futher and make it usaeabe in the PowerBI envonment and then the charts were created.
      
 ## EXPOSITORY DATA ANALYSIS
-The two sheets receved from the HR department were combined to one sheet for the presentation in PowerBI.
+The two sheets received from the HR department were combined to one sheet for the presentation in PowerBI.
 
 Interactive charts were created using the different build types;
 
@@ -103,13 +103,13 @@ Note: Individual colour codes was maintained in this report to show the gender t
         
   3. A Bar chart was used show gender company’s salary structure for each region.
      
-          - This clearly shows there is a gender pay gap in one of the regons. This is where the management should focus on to recctify the pay gap.
+     - This clearly shows there is a gender pay gap in one of the regions. This is where the management should focus on to           rectify the pay gap.
 
   5. A Bar chart was used to show the total salary payment for each gender distribution in each department.
      
   6. A Bar chart was used to show the minimum salary for each to show if the regulation adopted which requires manufacturing companies to pay employees a minimum of $90,000.
 
-      ● Does Palmoria meet this requirement: The data shows the company does not meet the requirement of $90,000 minimum salary.
+      ● Does Palmora meet this requirement: The data shows the company does not meet the requirement of $90,000 minimum salary.
 
   7. A Table with filter function was used to show the the pay distribution of employees grouped by different salary bands for each region.
 
@@ -119,7 +119,7 @@ Note: Individual colour codes was maintained in this report to show the gender t
         
   2. A table build was used to show the total amount (Bonus + Salary) to be paid to individual employees. Also this displayed using a card build function.
   
-  3. The total amount to be paid out per region was displayed using a pie cghart.
+  3. The total amount to be paid out per region was displayed using a pie chart.
      
 #### Charts were deployed for:
 
@@ -143,7 +143,7 @@ Excel Sheet For Power BI: [Palmora Group HR Analysis.xlsx](https://github.com/us
 ### Charts
       Other info revealed from the analysis are:
       
-            1. Some of the staff were not rated (hence no bunus pay for them)
+            1. Some of the staff were not rated (hence no bonus pay for them)
             
             2. There were some names of staff that appeared in two locations;
             
@@ -153,7 +153,7 @@ Excel Sheet For Power BI: [Palmora Group HR Analysis.xlsx](https://github.com/us
 
             3. There were same names of staff that appeared in two locations;
             
-                 a. With different loacation
+                 a. With different location
                  
                  b. Same salaries.
 
